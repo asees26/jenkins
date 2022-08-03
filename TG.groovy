@@ -16,7 +16,7 @@ public class TestGro{
 
 
 
-		println("Hello....This is a changes grrovy file")
+		println("Hello....This is a changed grrovy file")
 
 
 		Connection con=DriverManager.getConnection(hostUrl, userName, password) 
